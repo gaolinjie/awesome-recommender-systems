@@ -7,9 +7,9 @@ A curated list of awesome resources about Recommender Systems.
 - [Bag of Tricks for Efficient Text Classification](https://www.semanticscholar.org/paper/Bag-of-Tricks-for-Efficient-Text-Classification-Joulin-Grave/023cc7f9f3544436553df9548a7d0575bb309c2e) - Facebook 开源的文本处理工具 fastText 背后原理。可以训练词嵌入向量，文本多分类，效率和线性模型一样，效果和深度学习一样，值得拥有。 - 2016
 
 - [The Learning Behind Gmail Priority](https://www.semanticscholar.org/paper/The-Learning-Behind-Gmail-Priority-Aberdeen-Pacovsky/c32e8187d7a575432eee831294b5e2f67962d441) - 介绍了一种基于文本和行为给用户建模的思路，是信息流推荐的早期探索，Gmail 智能邮箱背后的原理。 - 2010
-  
-  
-  
+       
+         
+         
 ## 实战经验
 ### Netflix
 - [Netflix大溃败：放弃算法崇拜，向好莱坞低头](https://mp.weixin.qq.com/s/1Jdb-8IdmnZmwofObhYanA) - 2018
@@ -26,3 +26,4 @@ A curated list of awesome resources about Recommender Systems.
 - [用DNN构建推荐系统-Deep Neural Networks for YouTube Recommendations论文精读](https://cloud.tencent.com/developer/article/1163931) - 2017
 - [原来YouTube推荐系统的内幕是这样……](https://juejin.im/post/59a93438518825238b251cc2) - 2017
 - [Youtube 短视频推荐系统变迁：从机器学习到深度学习](https://zhuanlan.zhihu.com/p/28244445) - 2017
+  
