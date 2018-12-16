@@ -1,4 +1,4 @@
-# awesome-recommender-systems
+# Awesome Recommender Systems
 A curated list of awesome resources about Recommender Systems.
 
 
