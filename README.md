@@ -1,6 +1,7 @@
 # Awesome Recommender Systems
 A curated list of awesome resources about Recommender Systems.
 
+声明：本列表包含部分网络上收集的推荐，稍后补上相应来源。
 
 ## 原理篇
 ### 内容推荐
