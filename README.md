@@ -115,6 +115,7 @@ A curated list of awesome resources about Recommender Systems.
 - [Kaggle大神带你上榜单Top2%：点击预测大赛纪实（下）](https://mp.weixin.qq.com/s/5TcykXfFw97mT_aR_ZDOkA) - 2017
 
 ## 美团
+- [美团BERT的探索和实践](https://tech.meituan.com/2019/11/14/nlp-bert-practice.html) - 2019
 - [独家揭秘！2.5亿用户的美团智能推荐平台是如何构建的？](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247492434&idx=1&sn=99b360622511a185594e578182c3feab&scene=0#wechat_redirect) - 2018
 - [深度学习在美团搜索广告排序的应用实践](https://tech.meituan.com/searchads_dnn.html) - 2018
 - [美团“猜你喜欢”深度学习排序模型实践](https://tech.meituan.com/recommend_dnn.html) - 2018
