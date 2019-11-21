@@ -156,6 +156,7 @@ A curated list of awesome resources about Recommender Systems.
 - [京东推荐系统实践](https://myslide.cn/slides/9001?vertical=1) - 2015
 
 ## 阿里巴巴
+- [阿里将 Transformer 用于淘宝电商推荐，效果优于 DIN 和谷歌 WDL](https://www.infoq.cn/article/OJvS7h8JXvD4XCW*qldw) - 2019
 - [【阿里算法天才盖坤】解读阿里深度学习实践，CTR 预估、MLR 模型、兴趣分布网络等](https://mp.weixin.qq.com/s/9xw-FwWEK9VI2wNzc8EhPA) - 2018
 - [阿里妈妈首次公开新一代智能广告检索模型，重新定义传统搜索框架](https://mp.weixin.qq.com/s/TrWwp-DBTrKqIT_Pfy_o5w) - 2018
 - [论文Express | 淘宝广告是怎么优化的？阿里团队实时竞价系统策略](https://mp.weixin.qq.com/s/Tvz9s_O4RQcaxQ5u_c8brw) - 2018
@@ -185,3 +186,6 @@ A curated list of awesome resources about Recommender Systems.
 
 ## 百度
 - [百度大规模推荐系统实践](https://myslide.cn/slides/3001?vertical=1) - 2016
+
+## 知乎
+- [进击的下一代推荐系统：多目标学习如何让知乎用户互动率提升 100%？](https://www.infoq.cn/article/hO8ZlIwDVsQmE1-V5oJ3) - 2019
