@@ -3,6 +3,10 @@ A curated list of awesome resources about Recommender Systems.
 
 声明：本列表包含部分网络上收集的推荐，稍后补上相应来源。
 
+### 技术演进
+- [推荐系统技术演进趋势：从召回到排序再到重排](https://zhuanlan.zhihu.com/p/100019681) - 2019
+<br />
+
 ### 内容推荐
 - [Bag of Tricks for Efficient Text Classification](https://www.semanticscholar.org/paper/Bag-of-Tricks-for-Efficient-Text-Classification-Joulin-Grave/023cc7f9f3544436553df9548a7d0575bb309c2e) - Facebook 开源的文本处理工具 fastText 背后原理。可以训练词嵌入向量，文本多分类，效率和线性模型一样，效果和深度学习一样，值得拥有。 - 2016
 
@@ -88,6 +92,12 @@ A curated list of awesome resources about Recommender Systems.
 <br />
 
 ### Embedding
+- [EMBEDDING 在大厂推荐场景中的工程化实践](https://lumingdong.cn/engineering-practice-of-embedding-in-recommendation-scenario.html) - 2019
+- [万物皆Embedding，从经典的word2vec到深度学习基本操作item2vec](https://zhuanlan.zhihu.com/p/53194407) - 2019
+- [Embedding从入门到专家必读的十篇论文](https://zhuanlan.zhihu.com/p/58805184) - 2019
+- [深度学习中不得不学的Graph Embedding方法](https://zhuanlan.zhihu.com/p/64200072) - 2019
+- [从KDD 2018 Best Paper看Airbnb实时搜索排序中的Embedding技巧](https://zhuanlan.zhihu.com/p/55149901) - 2019
+- [Airbnb如何解决Embedding的数据稀疏问题？](https://zhuanlan.zhihu.com/p/57313656) - 2019
 <br />
 
 ### 多目标
