@@ -3,7 +3,6 @@ A curated list of awesome resources about Recommender Systems.
 
 声明：本列表包含部分网络上收集的推荐，稍后补上相应来源。
 
-## 原理篇
 ### 内容推荐
 - [Bag of Tricks for Efficient Text Classification](https://www.semanticscholar.org/paper/Bag-of-Tricks-for-Efficient-Text-Classification-Joulin-Grave/023cc7f9f3544436553df9548a7d0575bb309c2e) - Facebook 开源的文本处理工具 fastText 背后原理。可以训练词嵌入向量，文本多分类，效率和线性模型一样，效果和深度学习一样，值得拥有。 - 2016
 
@@ -70,7 +69,6 @@ A curated list of awesome resources about Recommender Systems.
 - [Detecting Near-Duplicates for Web Crawling](http://www2007.cpsc.ucalgary.ca/papers/paper215.pdf) - 在这篇论文中提出了 simhash 算法，用于大规模网页去重。 - 2007
 <br />
 
-## 工程篇
 ### 常见架构
 - [Activity Feeds Architecture](https://www.slideshare.net/danmckinley/etsy-activity-feeds-architecture) - 本文非常详细地介绍了社交动态信息流的架构设计细节。 - 2011
 <br />
@@ -81,6 +79,30 @@ A curated list of awesome resources about Recommender Systems.
 
 ### 效果保证
 - [Tutorial on Robustness of Recommender Systems](https://www.slideshare.net/neilhurley/tutorial-on-robustness-of-recommender-systems) - 本文非常详细讨论了对推荐系统的攻击和防护，并有实验模拟。 - 2011
+<br />
+
+### 冷启动
+<br />
+
+### 特征工程
+<br />
+
+### Embedding
+<br />
+
+### 多目标
+<br />
+
+### 强化学习
+<br />
+
+### 离线指标
+<br />
+
+### 线上评估
+<br />
+
+### Serving
 <br />
 
 ## 大厂实战
