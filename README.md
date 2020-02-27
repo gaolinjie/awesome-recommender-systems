@@ -224,4 +224,4 @@ A curated list of awesome resources about Recommender Systems.
 - [进击的下一代推荐系统：多目标学习如何让知乎用户互动率提升 100%？](https://www.infoq.cn/article/hO8ZlIwDVsQmE1-V5oJ3) - 2019
 
 ## 参考来源：
-- [推荐](https://time.geekbang.org/column/article/7204)
+- [推荐系统三十六式](https://time.geekbang.org/column/article/7204)
